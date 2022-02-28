@@ -8,3 +8,4 @@ print(a*b*c)
 d=5
 print(c+d)
 print("hii")
+print("m")
